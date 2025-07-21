@@ -88,4 +88,4 @@ These were extracted using OpenCV and SciPy from preprocessed grayscale MRI imag
 pip install -r requirements.txt
 streamlit run app.py
 
----
+
