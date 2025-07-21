@@ -17,17 +17,21 @@ A machine learning-based project to detect brain tumors from MRI scans using ext
 ---
 
 ## 📁 Folder Structure
+
+```text
 📦 Brain-Tumor-ML
-├── data/ # MRI dataset
-├── notebook/ # Jupyter notebooks
-├── model/ # Saved models (.joblib)
-├── app.py # Streamlit app file
-├── requirements.txt # Required Python packages
-└── README.md # Project overview
+├── data/              # MRI dataset (Tumor / No Tumor)
+├── notebook/          # Jupyter notebooks for ML & EDA
+├── model/             # Saved models (.joblib or .pkl)
+├── app.py             # Streamlit web app
+├── requirements.txt   # Python dependencies
+└── README.md          # Project documentation
+```
 
 ---
 
-## 🧠 Features Used
+## 📁 Folder Structure
+
 
 - **Mean Intensity**
 - **Texture Variance**
